@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Devanshu Dalal, Passionate fresher pursuing B. Tech in Computer currently is second year. Energetic individual with outstanding interpersonal, analytical and
+critical thinking skills. Currently excited to be in entry-level position to build valuable experience.
+
 <!--
 **devanshukd04/devanshukd04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
