@@ -3,6 +3,9 @@
 I am Devanshu Dalal, Passionate fresher pursuing B. Tech in Computer currently is second year. Energetic individual with outstanding interpersonal, analytical and
 critical thinking skills. Currently excited to be in entry-level position to build valuable experience.
 
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)]([https:braydoncoyer.dev](https://devpost.com/devanshukd27?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/braydon-coyer/](https://www.linkedin.com/in/devanshu-dalal-3042a1219))
+
 <!--
 **devanshukd04/devanshukd04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
