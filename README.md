@@ -3,7 +3,6 @@
 I am Devanshu Dalal, Passionate fresher pursuing B. Tech in Computer currently is second year. Energetic individual with outstanding interpersonal, analytical and
 critical thinking skills. Currently excited to be in entry-level position to build valuable experience.
 
-[![Visits Badge]([https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fdevpost&psig=AOvVaw2CWw5GuvqSl-WkSCisGg6_&ust=1652898731129000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiWouCV5_cCFQAAAAAdAAAAABAD)]([https:braydoncoyer.dev](https://devpost.com/devanshukd27?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav))
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/braydon-coyer/](https://www.linkedin.com/in/devanshu-dalal-3042a1219))
 
 <!--
