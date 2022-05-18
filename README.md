@@ -41,4 +41,11 @@ Here are some ideas to get you started:
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshukd04&show_icons=true&locale=en" alt="devanshukd04" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshukd04&" alt="devanshukd04" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=devanshukd04&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="devanshukd04" /></p>
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devanshukd04&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ -->
+ 
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshukd04&layout=compact&theme=vision-friendly-dark" alt="devanshukd04" /></p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshukd04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
