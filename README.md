@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshukd04&show_icons=true&locale=en" alt="devanshukd04" /></p> -->
 
-<p align="left"><b>Github Stats</b></p>
+<h3>Github Stats</h3>
 
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=devanshukd04&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="devanshukd04" /></p>
