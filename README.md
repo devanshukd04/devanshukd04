@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshukd04&label=Profile%20views&color=0e75b6&style=flat" alt="devanshukd04" /> </p>
 
+<p align="center"><img src="Gif.gif" alt="animated"/></p>
+
 - 🔭 I’m pursuing **B-Tech** in  **Computer Science**
 - 🌱 I’m currently working on **AI/ML**, **Data Structures and Algorithms**
 - 🙌 I like to **brainstorm** questions to improve my problem solving and analytical skills.
