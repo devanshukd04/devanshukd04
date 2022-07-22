@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Devanshu Dalal</h1>
-<h3 align="center">I am a Passionate fresher pursuing B. Tech in Computer Science currently in second year. I always like to explore new technology and implement those things in projects. I also do DSA and always like to brainstorm to solve the coding questions.</h3>
+<h3 align="center">I am a Passionate fresher pursuing B. Tech in Computer Science currently in third year. I always like to explore new technology and implement those things in projects. I also do DSA and always like to brainstorm to solve the coding questions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshukd04&label=Profile%20views&color=0e75b6&style=flat" alt="devanshukd04" /> </p>
 
