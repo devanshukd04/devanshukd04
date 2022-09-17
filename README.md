@@ -54,3 +54,8 @@ Here are some ideas to get you started:
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshukd04&layout=compact&theme=vision-friendly-dark" alt="devanshukd04" /></p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshukd04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+<h3 align="left">Git Profile Trophies:</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=devanshukd04)](https://github.com/ryo-ma/github-profile-trophy)
