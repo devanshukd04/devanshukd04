@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="Gif.gif" alt="animated"/></p>
 
 - 🔭 I’m pursuing **B-Tech** in  **Computer Science**
-- 🌱 I’m currently working on **AI/ML**, **Data Structures and Algorithms**
+- 🌱 I’m currently working on **AI/ML**, **Data Structures and Algorithms** and **MERN Stack**
 - 🙌 I like to **brainstorm** questions to improve my problem solving and analytical skills.
 
 <h3 align="left">Connect with me:</h3>
