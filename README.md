@@ -45,15 +45,15 @@ Here are some ideas to get you started:
 
 <h3>Github Stats</h3>
 
+<br/>
+    <a href="https://github.com/devanshukd04/github-readme-stats"><img alt="Devanshu Dalal Github Stats" src="https://github-readme-stats.vercel.app/api?username=devanshukd04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=devanshukd04&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="devanshukd04" /></p>
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devanshukd04&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- -->
- 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshukd04&layout=compact&theme=vision-friendly-dark" alt="devanshukd04" /></p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshukd04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=devanshukd04&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="devanshukd04" /></p>
+
+<a href="https://github.com/devanshuk04/github-readme-stats"><img alt="Devanshu Dalal Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshukd04&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true"/></a>
+ <br/>
 
 
 <h3 align="left">Git Profile Trophies:</h3>
